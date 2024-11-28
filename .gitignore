@@ -161,5 +161,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# Data folder is too large
-data/
+# Ignore everything in the data folder
+data/*
+
+# But do not ignore .txt files in data/
+!data/*.txt
