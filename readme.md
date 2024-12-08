@@ -24,3 +24,7 @@ https://open.canada.ca/data/en/dataset/5ea29f40-1b5b-4f34-85b3-7c67088ff536
 https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/page.cfm?Lang=E&SearchText=Montreal&DGUIDlist=2021A00052466023&GENDERlist=1,2,3&STATISTIClist=1&HEADERlist=0
 - The Canadian government has historical weather data by day.
 https://climate.weather.gc.ca/historical_data/search_historic_data_e.html
+
+## Setup:
+
+Github has a file size upload restriction, and the Bixi datasets are extremely large. To get around this restriction, the datasets are available at the google drive link [here](https://drive.google.com/drive/folders/1iXZRpnqqPB-p0SiQs8PmBnktTJlV16Su?usp=sharing). Anyone with a Wentworth Institute Technology email address can access the link. Copy the files over from the downloaded folder into the data folder in the repository.
