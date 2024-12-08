@@ -3,7 +3,7 @@
 
 ## Description:
 
-A project that analyzes Montreal bike share (Bixi) usage and predicts the usage of individual stations using data from prior years. A .pdf of the associated reort can be found above.
+A project that analyzes Montreal bike share (Bixi) usage and predicts the usage of individual stations using data from prior years. A .pdf of the associated report can be found above.
 
 ## Questions:
 
