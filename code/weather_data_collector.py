@@ -3,8 +3,8 @@ import numpy as np
 
 # Note: COCO is the weather category that meteostat uses. Conversion to a string weather category is done in the analysis notebook
 
-bixi_data_df = pd.read_csv('C:\\Users\\histo\\individual_project_3125_bixi\\COMP_3125_Individual_Project_AidenDever\\data\\Bixi_2023.csv')
-weather_df = pd.read_csv('C:\\Users\\histo\\individual_project_3125_bixi\\COMP_3125_Individual_Project_AidenDever\\data\\weather_mtl_2023.csv')
+bixi_data_df = pd.read_csv('..\\data\\Bixi_2023.csv')
+weather_df = pd.read_csv('..\\data\\weather_mtl_2023.csv')
 
 def add_coco_to_trips(bixi_data_df, weather_df):
     line_counter = 0
