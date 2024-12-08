@@ -1,1 +1,4 @@
-Data files are too large to be uploaded to github. Google Drive Link: PLACEHOLDER.
+Github has a file size upload restriction, and the Bixi datasets are extremely large. 
+To get around this restriction, the datasets are available at the google drive link here: 
+https://drive.google.com/drive/folders/1iXZRpnqqPB-p0SiQs8PmBnktTJlV16Su?usp=sharing. 
+Anyone with a Wentworth Institute Technology email address can access the link. Copy the files over from the downloaded folder into the data folder in the repository.
